@@ -1,0 +1,259 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.nav-a{
+  transition: 0.3s;
+  border-radius: 10px;
+  text-decoration: none;
+  padding:10px;
+
+}
+.nav-a:hover{
+  padding: 20px;
+  text-decoration: none;
+  background-color: #632d7e;
+  color: white;
+}
+.nav-a:not( :hover ){
+  transition: 0.3s;
+}
+
+.logo-button{
+  border:none;
+  background-color: #440464;
+  border-radius: 50px;
+  transition: 0.1s;
+}
+
+.logo-button:hover{
+  background-color: #632d7e
+}
+.logo-button:not( :hover ){ 
+  transition: 0.8s;
+}
+
+.footer{
+  display: block;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color : #dd7a1e /*fb8b24*/;
+  color: white;
+  text-align: center;
+
+
+}
+
+.footer-div{
+  
+  display: block;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color : #dd7a1e /*fb8b24*/;
+  color: white;
+  text-align: center;
+}
+
+.social-icon-fb:hover{
+  padding: 5px;
+  background-color: #3b5998;
+  border-radius: 5px;
+  transition: 0.3s;
+
+}
+.social-icon-insta:hover{
+  padding: 5px;
+  background-color: #dd2a7b;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+.social-icon-tw:hover{
+  padding: 5px;
+  background-color: #08a0e9;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+.social-icon-git:hover{
+  padding: 5px;
+  background-color: #21262c;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+a.social-links{
+  text-decoration: none;
+  color: white;
+}
+a.dev-link{
+  text-decoration: none;
+  color: #2c4374;
+}
+
+.collapse-cards-heading{
+  background-color: white;
+}
+
+.collapse-cards-body{
+  transition: 0.3s;
+  background-color: #e4e4e4;
+}
+
+.upper-team-imgs{
+  width: 100%;
+  transition: 0.5s;
+}
+.upper-team-imgs:hover {
+  width:102%;
+  transition: 0.5s;
+}
+.upper-team-cards{
+  width: 100%;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  transition: 0.5s;
+}
+.upper-team-imgs:not( :hover ){ 
+  transition: 0.5s;
+
+}
+.remaining-team-imgs{
+  width: 100%;
+  
+}
+.remaining-team-imgs:hover {
+  width:102%;
+  transition: 0.5s;
+}
+.remaining-team-cards{
+  width: 100%;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+}
+.remaining-team-imgs:not( :hover ){ 
+  transition: 0.5s;
+
+}
+
+
+.container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.bgimg-1 {
+  /* The image used */
+  background-image: url("./assets/scenes/basketball-on-pitch.jpg");
+
+  /* Set a specific height */
+  height: 600px;
+  opacity: 0.9;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+.bgimg-2 {
+  /* The image used */
+  background-image: url("./assets/scenes/tree.jpg");
+
+  /* Set a specific height */
+  height: 600px;
+  opacity: 0.9;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+.bgimg-3 {
+  /* The image used */
+  background-image: url("./assets/scenes/hoop.jpg");
+
+  /* Set a specific height */
+  height: 600px;
+  opacity: 0.9;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
