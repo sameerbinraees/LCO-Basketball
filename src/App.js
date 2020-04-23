@@ -20,13 +20,13 @@ function App() {
       <div className="App">
         <Nav />
         <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/tournament" exact component={Tournamnet} />
-          <Route path="/video" exact component={Video} />
-          <Route path="/faqs" exact component={Faq} />
-          <Route path="/team" exact component={Team} />
-          <Route path="/contact" exact component={Contact} />
-          <Route path="/about" exact component={About} />
+          <Route path="/LCO-Basketball/#/" exact component={Home} />
+          <Route path="/LCO-Basketball/#/tournament" exact component={Tournamnet} />
+          <Route path="/LCO-Basketball/#/video" exact component={Video} />
+          <Route path="/LCO-Basketball/#/faqs" exact component={Faq} />
+          <Route path="/LCO-Basketball/#/team" exact component={Team} />
+          <Route path="/LCO-Basketball/#/contact" exact component={Contact} />
+          <Route path="/LCO-Basketball/#/about" exact component={About} />
         </Switch>
         <Footer />
       </div>
