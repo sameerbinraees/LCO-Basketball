@@ -1,3 +1,6 @@
+This website is about a fictitious basketball team, made after watching the challenge in the video:
+https://www.youtube.com/watch?v=hqvGOPB0KmQ&feature= 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
