@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42c07858a8f97c5f7c4624275069568d",
+    "revision": "d1aaab64e3d59197d46e2e4ebe6920a7",
     "url": "/LCO-Basketball/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LCO-Basketball/static/css/2.d1551ae5.chunk.css"
   },
   {
-    "revision": "267d761565985a3edb81",
+    "revision": "fb31d461cc60b97af1af",
     "url": "/LCO-Basketball/static/css/main.c09738ed.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LCO-Basketball/static/js/2.9caca9e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "267d761565985a3edb81",
-    "url": "/LCO-Basketball/static/js/main.2c14d83f.chunk.js"
+    "revision": "fb31d461cc60b97af1af",
+    "url": "/LCO-Basketball/static/js/main.2d32108c.chunk.js"
   },
   {
     "revision": "3c0eae9a2d33280c3129",
