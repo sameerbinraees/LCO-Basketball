@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/LCO-Basketball/static/css/main.c09738ed.chunk.css",
-    "main.js": "/LCO-Basketball/static/js/main.d4ae8222.chunk.js",
-    "main.js.map": "/LCO-Basketball/static/js/main.d4ae8222.chunk.js.map",
+    "main.js": "/LCO-Basketball/static/js/main.2c14d83f.chunk.js",
+    "main.js.map": "/LCO-Basketball/static/js/main.2c14d83f.chunk.js.map",
     "runtime-main.js": "/LCO-Basketball/static/js/runtime-main.12323839.js",
     "runtime-main.js.map": "/LCO-Basketball/static/js/runtime-main.12323839.js.map",
     "static/css/2.d1551ae5.chunk.css": "/LCO-Basketball/static/css/2.d1551ae5.chunk.css",
-    "static/js/2.4613c4ec.chunk.js": "/LCO-Basketball/static/js/2.4613c4ec.chunk.js",
-    "static/js/2.4613c4ec.chunk.js.map": "/LCO-Basketball/static/js/2.4613c4ec.chunk.js.map",
+    "static/js/2.9caca9e9.chunk.js": "/LCO-Basketball/static/js/2.9caca9e9.chunk.js",
+    "static/js/2.9caca9e9.chunk.js.map": "/LCO-Basketball/static/js/2.9caca9e9.chunk.js.map",
     "index.html": "/LCO-Basketball/index.html",
-    "precache-manifest.004863958982d620a73a3035564be034.js": "/LCO-Basketball/precache-manifest.004863958982d620a73a3035564be034.js",
+    "precache-manifest.1e3d836b5f7a7f0ed2db474c2adb8be8.js": "/LCO-Basketball/precache-manifest.1e3d836b5f7a7f0ed2db474c2adb8be8.js",
     "service-worker.js": "/LCO-Basketball/service-worker.js",
     "static/css/2.d1551ae5.chunk.css.map": "/LCO-Basketball/static/css/2.d1551ae5.chunk.css.map",
     "static/css/main.c09738ed.chunk.css.map": "/LCO-Basketball/static/css/main.c09738ed.chunk.css.map",
-    "static/js/2.4613c4ec.chunk.js.LICENSE.txt": "/LCO-Basketball/static/js/2.4613c4ec.chunk.js.LICENSE.txt",
+    "static/js/2.9caca9e9.chunk.js.LICENSE.txt": "/LCO-Basketball/static/js/2.9caca9e9.chunk.js.LICENSE.txt",
     "static/media/Big Tournament Coming Soon.png": "/LCO-Basketball/static/media/Big Tournament Coming Soon.4a32f4b4.png",
     "static/media/artimg-2.png": "/LCO-Basketball/static/media/artimg-2.5dd6f64a.png",
     "static/media/App.css": "/LCO-Basketball/static/media/tree.dd7a7238.jpg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.12323839.js",
     "static/css/2.d1551ae5.chunk.css",
-    "static/js/2.4613c4ec.chunk.js",
+    "static/js/2.9caca9e9.chunk.js",
     "static/css/main.c09738ed.chunk.css",
-    "static/js/main.d4ae8222.chunk.js"
+    "static/js/main.2c14d83f.chunk.js"
   ]
 }
