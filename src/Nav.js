@@ -90,43 +90,43 @@ class ResAppBar extends Component {
 
                         <List className={this.props.classes.list}>
                             <ListItem key={1} button divider>
-                                <Link href="/LCO-Basketball/#/" color="inherit" className={this.props.classes.list}>
+                                <Link href="/" color="inherit" className={this.props.classes.list}>
                                     Home
                                 </Link>
                             </ListItem>
 
                             <ListItem key={2} button divider>
-                                <Link href="/LCO-Basketball/#/about" color="inherit" className={this.props.classes.list}>
+                                <Link href="/about" color="inherit" className={this.props.classes.list}>
                                     About Us
                                 </Link>
                             </ListItem>
 
                             <ListItem key={3} button divider>
-                                <Link href="/LCO-Basketball/#/tournament" color="inherit" className={this.props.classes.list}>
+                                <Link href="/tournament" color="inherit" className={this.props.classes.list}>
                                     Tournament
                                 </Link>
                             </ListItem>
 
                             <ListItem key={4} button divider>
-                                <Link href="/LCO-Basketball/#/team" color="inherit" className={this.props.classes.list}>
+                                <Link href="/team" color="inherit" className={this.props.classes.list}>
                                     Team
                                 </Link>
                             </ListItem>
 
                             <ListItem key={5} button divider>
-                                <Link href="/LCO-Basketball/#/video" color="inherit" className={this.props.classes.list}>
+                                <Link href="/video" color="inherit" className={this.props.classes.list}>
                                     Video
                                 </Link>
                             </ListItem>
 
                             <ListItem key={6} button divider>
-                                <Link href="/LCO-Basketball/#/faqs" color="inherit" className={this.props.classes.list}>
+                                <Link href="/faqs" color="inherit" className={this.props.classes.list}>
                                     FAQ
                                 </Link>
                             </ListItem>
 
                             <ListItem key={7} button divider>
-                                <Link href="/LCO-Basketball/#/contact" color="inherit" className={this.props.classes.list}>
+                                <Link href="/contact" color="inherit" className={this.props.classes.list}>
                                     Contact Us
                                 </Link>
                             </ListItem>
@@ -151,31 +151,32 @@ class ResAppBar extends Component {
                     </button>
                     <Typography variant="h6" style={{ flexGrow: 1 }} color="inherit" >Go fight for it team</Typography>
                     <Typography variant="subheading" className={this.props.classes.padding} color="inherit" >
-                        <Link href="/LCO-Basketball/#/" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
+                    
+                        <Link href="/" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
                             Home
                         </Link>
 
-                        <Link href="/LCO-Basketball/#/about" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
+                        <Link href="/about" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
                             About Us
                         </Link>
 
-                        <Link href="/LCO-Basketball/#/tournament" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
+                        <Link href="/tournament" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
                             Tournament
                         </Link>
 
-                        <Link href="/LCO-Basketball/#/team" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
+                        <Link href="/team" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
                             Team
                         </Link>
 
-                        <Link href="/LCO-Basketball/#/video" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
+                        <Link href="/video" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
                             Video
                         </Link>
 
-                        <Link href="/LCO-Basketball/#/faqs" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
+                        <Link href="/faqs" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
                             FAQ
                         </Link>
 
-                        <Link href="/LCO-Basketball/#/contact" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
+                        <Link href="/contact" color="inherit" className="nav-a" style={{ textDecoration: "none" }}>
                             Contact Us
                         </Link>
                     </Typography>
