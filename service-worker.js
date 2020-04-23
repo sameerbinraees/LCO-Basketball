@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LCO-Basketball/precache-manifest.e6d4b31ab0d0ef759c0ab6001e059370.js"
+  "/LCO-Basketball/precache-manifest.ba5dc3ad7e77fd5e29fe94ee6f02f310.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LCO-Basketball/static/css/main.c09738ed.chunk.css",
-    "main.js": "/LCO-Basketball/static/js/main.c6140bcd.chunk.js",
-    "main.js.map": "/LCO-Basketball/static/js/main.c6140bcd.chunk.js.map",
+    "main.js": "/LCO-Basketball/static/js/main.16f75dc6.chunk.js",
+    "main.js.map": "/LCO-Basketball/static/js/main.16f75dc6.chunk.js.map",
     "runtime-main.js": "/LCO-Basketball/static/js/runtime-main.12323839.js",
     "runtime-main.js.map": "/LCO-Basketball/static/js/runtime-main.12323839.js.map",
     "static/css/2.d1551ae5.chunk.css": "/LCO-Basketball/static/css/2.d1551ae5.chunk.css",
     "static/js/2.9caca9e9.chunk.js": "/LCO-Basketball/static/js/2.9caca9e9.chunk.js",
     "static/js/2.9caca9e9.chunk.js.map": "/LCO-Basketball/static/js/2.9caca9e9.chunk.js.map",
     "index.html": "/LCO-Basketball/index.html",
-    "precache-manifest.e6d4b31ab0d0ef759c0ab6001e059370.js": "/LCO-Basketball/precache-manifest.e6d4b31ab0d0ef759c0ab6001e059370.js",
+    "precache-manifest.ba5dc3ad7e77fd5e29fe94ee6f02f310.js": "/LCO-Basketball/precache-manifest.ba5dc3ad7e77fd5e29fe94ee6f02f310.js",
     "service-worker.js": "/LCO-Basketball/service-worker.js",
     "static/css/2.d1551ae5.chunk.css.map": "/LCO-Basketball/static/css/2.d1551ae5.chunk.css.map",
     "static/css/main.c09738ed.chunk.css.map": "/LCO-Basketball/static/css/main.c09738ed.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.d1551ae5.chunk.css",
     "static/js/2.9caca9e9.chunk.js",
     "static/css/main.c09738ed.chunk.css",
-    "static/js/main.c6140bcd.chunk.js"
+    "static/js/main.16f75dc6.chunk.js"
   ]
 }
