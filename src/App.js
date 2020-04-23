@@ -11,7 +11,7 @@ import Team from './Team'
 import About from './About'
 import Contact from './Contact'
 
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 function App() {
 
   return (
